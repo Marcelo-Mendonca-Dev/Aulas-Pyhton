@@ -1,1 +1,1 @@
-nome = input("Nome: "); idade = int(input("Idade: ")); plano = input("Plano? (True/False): "); aceito = idade >= 18 and idade < 60 and plano == "True"; print(f"Seu nome é {nome}, você tem {idade} anos. Tem plano? {plano}. Você foi aceito? {aceito}.")
+#ATIVIDADE 2 - 
