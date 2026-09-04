@@ -23,11 +23,11 @@
     or -> se ao menos uma das comparações for True, retorna True
     not
 """
-
 idade = 18
 
-# print(idade != 18) # False
-# print(idade == 18) # True
-# print(idade > 18)  # False
-# print(idade < 18)  # False
-# print(idade >= 18) # True
+print(idade !=18) #False
+print(idade ==18) #True
+print(idade > 18) #False
+print(idade < 18) #False
+print(idade >= 18) #False
+print(idade <= 18) #True
